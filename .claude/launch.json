@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "twizzygold",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "dist", "-p", "5181", "--no-clipboard"],
+      "port": 5181
+    }
+  ]
+}
